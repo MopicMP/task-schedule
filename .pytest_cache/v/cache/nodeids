@@ -1,0 +1,5 @@
+[
+  "tests/test_task_schedule.py::TestSchedule::test_basic",
+  "tests/test_task_schedule.py::TestSchedule::test_empty",
+  "tests/test_task_schedule.py::TestSchedule::test_type_error"
+]
